@@ -1,6 +1,5 @@
-
 Item=Color,name=Bar,default=#80bbe5ff;
-Item=Color,name=BarFill,default=#803b86b6;
+Item=Color,name=BarFill,default=#80ff8a00;
 Item=Color,name=BarBlock,default=#80ff6969;
 
 Item=Color,name=FontColor,default=#FFFFFFFF;
@@ -8,16 +7,12 @@ Item=Color,name=FontColorInverse,default=#FF000000;
 Item=Color,name=FontColorInactive,default=#993b86b6;
 Item=Color,name=FontColorDark,default=#b4505050;
 
-
 Item=Color,name=MainSolid,default=#CC000000;
 Item=Color,name=MainSolidOverlay,default=#DD000000;
 
 Item=Color,name=MainLight,default=#80000000;
 Item=Color,name=MainLightMR,default=#99000000;
-Item=Color,name=MainLightSub,default=#C0000000;
-Item=Color,name=MainLight_H,default=#FFFFFFFF;
 
-Item=Color,name=Hilight,default=#CC111111;
 Item=Color,name=Lolight,default=#95000000;
 
 Item=Color,name=Error,default=#AAff0000;
